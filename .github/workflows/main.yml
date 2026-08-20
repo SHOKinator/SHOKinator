@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Запуск каждые 24 часа
     - cron: "0 0 * * *" 
   workflow_dispatch:
 
@@ -19,11 +18,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-import-endpoint@v2
-        ignore: true
-
-      - uses: Pushstarters/push-action@master
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          BRANCH: output
-          FOLDER: dist
+          target_branch: output
+          build_dir: dist
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
