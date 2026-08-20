@@ -1,7 +1,11 @@
 <div align="center">
 
   <!-- Minimal Dynamic Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B51E0&center=true&vcenter=true&width=400&lines=Hello+World!+%F0%9F%90%8D;I'm+Shokay+Serikbol;Software+Engineer;Student+@+AstanaIT" alt="Typing SVG" />
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=9B51E0&center=true&vcenter=true&width=500&lines=Hello+World!;Hola+Mundo!;Bonjour+le+monde!;Hallo+Welt!;Hello%2C+I'm+Shokay!;Software+Engineer;Data+Science+%26+ML" alt="Typing SVG" />
+  </a>
+</div>
 
   <p>Student at <b>Astana IT University</b>, focused on software engineering and data science.</p>
 
