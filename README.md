@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" width="100%" alt="SHOKinator Header">
+  <img src="Github-header.jpg" width="100%" alt="SHOKinator Header">
 </div>
 
 <h2>🚀 Languages and Tools I Use</h2>
