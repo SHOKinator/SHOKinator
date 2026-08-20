@@ -1,7 +1,5 @@
 <div align="center">
 
-  <div align="center">
-
   <!-- Чистый SVG с мгновенной сменой слов без печатания -->
   <svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
     <style>
@@ -42,8 +40,6 @@
       <text x="265" y="40" text-anchor="start" class="static-text">World! 👋</text>
     </g>
   </svg>
-
-</div>
 
   <p>Student at <b>Astana IT University</b>, focused on software engineering and data science.</p>
 
